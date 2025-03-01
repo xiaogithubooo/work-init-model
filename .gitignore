@@ -1,5 +1,6 @@
-### @author <a href="https://github.com/xxx">xxx</a> ###
-### @from <a href="https://xxx.com">xxx</a> ###
+# .gitignore
 
-# 待补充...
+/work-init-model-frontend/node_modules
+/work-init-model-frontend/.next/
+/work-init-model-frontend/.idea
 
