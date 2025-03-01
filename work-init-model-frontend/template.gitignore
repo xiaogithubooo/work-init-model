@@ -1,0 +1,6 @@
+# ./.gitignore: 忽略模板
+
+/node_modules
+/.next/
+/.idea
+
